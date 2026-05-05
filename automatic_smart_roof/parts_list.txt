@@ -1,0 +1,58 @@
+========================================================
+     AUTOMATIC SMART ROOF - PARTS/SHOPPING LIST
+========================================================
+
+ELECTRONICS COMPONENTS
+----------------------
+[  ] Arduino Uno or Arduino Nano       x1    ₱250-400
+[  ] Rain Sensor Module                x1    ₱50-80
+[  ] LDR (Photoresistor) 5mm           x1    ₱5-10
+[  ] Resistor 10K Ohm (for LDR)        x1    ₱1
+[  ] Resistor 220 Ohm (for LEDs)       x3    ₱3
+
+MOTOR (Choose One):
+[  ] SG90 Servo Motor (Small)          x1    ₱60-100
+     - OR -
+[  ] MG996R Servo Motor (Stronger)     x1    ₱150-200
+
+LED INDICATORS:
+[  ] LED 5mm Green                     x1    ₱2
+[  ] LED 5mm Red                       x1    ₱2
+[  ] LED 5mm Yellow                    x1    ₱2
+
+WIRING & POWER:
+[  ] Breadboard (400 holes)            x1    ₱50-80
+[  ] Jumper Wires Male-Male            x20   ₱30
+[  ] Jumper Wires Male-Female          x10   ₱20
+[  ] USB Cable Type A-B                x1    ₱30
+
+========================================================
+STRUCTURE/MODEL MATERIALS
+--------------------------------------------------------
+[  ] Cardboard Box (Large)             x1    FREE
+[  ] Foam Board / Illustration Board   x2    ₱40
+[  ] Popsicle Sticks                   x50   ₱30
+[  ] Hot Glue Sticks                   x10   ₱50
+[  ] Small Hinges or Tape              x2    ₱20
+
+========================================================
+ESTIMATED TOTAL COST:
+--------------------------------------------------------
+Basic Version (Servo):        ₱500 - ₱700
+
+========================================================
+WHERE TO BUY (Philippines):
+--------------------------------------------------------
+1. Makerlab Electronics - https://makerlab-electronics.com/
+2. Circuit Rocks - https://circuit.rocks/
+3. Shopee/Lazada - Search "Arduino Uno Kit"
+4. Quiapo/Raon (Physical stores - cheapest)
+
+========================================================
+USB CABLE TYPE FOR ARDUINO:
+--------------------------------------------------------
+Arduino Uno (Classic) = USB Type-B (square, parang printer)
+Arduino Uno R4        = USB Type-C
+Arduino Nano          = Mini USB or Micro USB
+
+========================================================
